@@ -1,3 +1,9 @@
+---
+title: Day 2
+layout: template
+filename: Day 2.md
+--- 
+
 # **Fun With Terminal:** An Alex Payne Reading-Notes Original
 
 **Acronym Cheat Sheet** 
